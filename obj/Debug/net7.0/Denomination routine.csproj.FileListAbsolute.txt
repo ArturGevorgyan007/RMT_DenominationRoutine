@@ -1,0 +1,30 @@
+C:\Revature\ArturGevorgyan007\Denomination routine\bin\Debug\net7.0\Denomination routine.exe
+C:\Revature\ArturGevorgyan007\Denomination routine\bin\Debug\net7.0\Denomination routine.deps.json
+C:\Revature\ArturGevorgyan007\Denomination routine\bin\Debug\net7.0\Denomination routine.runtimeconfig.json
+C:\Revature\ArturGevorgyan007\Denomination routine\bin\Debug\net7.0\Denomination routine.dll
+C:\Revature\ArturGevorgyan007\Denomination routine\bin\Debug\net7.0\Denomination routine.pdb
+C:\Revature\ArturGevorgyan007\Denomination routine\obj\Debug\net7.0\Denomination routine.csproj.AssemblyReference.cache
+C:\Revature\ArturGevorgyan007\Denomination routine\obj\Debug\net7.0\Denomination routine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\ArturGevorgyan007\Denomination routine\obj\Debug\net7.0\Denomination routine.AssemblyInfoInputs.cache
+C:\Revature\ArturGevorgyan007\Denomination routine\obj\Debug\net7.0\Denomination routine.AssemblyInfo.cs
+C:\Revature\ArturGevorgyan007\Denomination routine\obj\Debug\net7.0\Denomination routine.csproj.CoreCompileInputs.cache
+C:\Revature\ArturGevorgyan007\Denomination routine\obj\Debug\net7.0\Denomination routine.dll
+C:\Revature\ArturGevorgyan007\Denomination routine\obj\Debug\net7.0\refint\Denomination routine.dll
+C:\Revature\ArturGevorgyan007\Denomination routine\obj\Debug\net7.0\Denomination routine.pdb
+C:\Revature\ArturGevorgyan007\Denomination routine\obj\Debug\net7.0\Denomination routine.genruntimeconfig.cache
+C:\Revature\ArturGevorgyan007\Denomination routine\obj\Debug\net7.0\ref\Denomination routine.dll
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\bin\Debug\net7.0\Denomination routine.exe
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\bin\Debug\net7.0\Denomination routine.deps.json
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\bin\Debug\net7.0\Denomination routine.runtimeconfig.json
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\bin\Debug\net7.0\Denomination routine.dll
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\bin\Debug\net7.0\Denomination routine.pdb
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\obj\Debug\net7.0\Denomination routine.csproj.AssemblyReference.cache
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\obj\Debug\net7.0\Denomination routine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\obj\Debug\net7.0\Denomination routine.AssemblyInfoInputs.cache
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\obj\Debug\net7.0\Denomination routine.AssemblyInfo.cs
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\obj\Debug\net7.0\Denomination routine.csproj.CoreCompileInputs.cache
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\obj\Debug\net7.0\Denomination routine.dll
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\obj\Debug\net7.0\refint\Denomination routine.dll
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\obj\Debug\net7.0\Denomination routine.pdb
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\obj\Debug\net7.0\Denomination routine.genruntimeconfig.cache
+C:\Revature\ArturGevorgyan007\RMT_DenominationRoutine\obj\Debug\net7.0\ref\Denomination routine.dll
